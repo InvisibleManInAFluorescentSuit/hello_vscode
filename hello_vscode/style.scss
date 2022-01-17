@@ -1,0 +1,32 @@
+@import "_header";
+body {
+	background-color: rgb(15, 122, 122);
+	font-size: 5git remote add origin https://github.com/InvisibleManInAFluorescentSuit/hello_vscode.git0px;
+}
+
+.block {
+	&__section {
+		font-size: 16px;
+		color: bisque;
+	}
+}
+.block {
+	&__item {
+		font-size: 30px;
+		color: azure;
+	}
+}
+.block {
+}
+.block__item {
+}
+.bock__section {
+}
+.red {
+	color: red;
+}
+@media (max-width: 767px) {
+	red {
+		border: 0;
+	}
+}
